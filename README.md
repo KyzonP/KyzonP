@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @KyzonP
 - 👀 I’m interested in programming games
-- 🌱 I’m currently learning aboutthe Unity Engine
-- 💞️ I’m looking to collaborate on ... we shall see
 - 📫 How to reach me on discord: Kyzo#2204 
 
 <!---
